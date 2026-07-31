@@ -94,3 +94,10 @@ The application uses MySQL for storing academic information including student re
 - Role Based Authorization
 - Secure REST APIs
 - Input Validation
+- ## 🚀 Future Enhancements
+
+- Email Notifications
+- Student Performance Analytics
+- Mobile Application
+- AI-Based Attendance Analysis
+- OCR Support
