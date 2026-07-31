@@ -101,3 +101,6 @@ The application uses MySQL for storing academic information including student re
 - Mobile Application
 - AI-Based Attendance Analysis
 - OCR Support
+- ## 🤝 Contributing
+
+Contributions are welcome. Please fork the repository, create a feature branch, commit your changes, and submit a pull request.
