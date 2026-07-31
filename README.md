@@ -9,3 +9,14 @@ AI-Powered Student ERP Management System is a full-stack web application develop
 - Reduce manual work
 - Improve communication
 - Integrate AI assistance
+## ✨ Features
+
+- Student Management
+- Faculty Management
+- Department Management
+- Course Management
+- Attendance Tracking
+- User Authentication
+- Role Based Access
+- Dashboard
+- AI Assistant
