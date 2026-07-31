@@ -78,3 +78,6 @@ The backend exposes REST APIs for:
 - Courses
 - Attendance
 - AI Assistant
+## 🗄 Database
+
+The application uses MySQL for storing academic information including student records, faculty details, attendance, and course information.
