@@ -20,3 +20,6 @@ AI-Powered Student ERP Management System is a full-stack web application develop
 - Role Based Access
 - Dashboard
 - AI Assistant
+## 🤖 AI Assistant
+
+The application integrates Google Gemini AI to answer academic queries, provide learning assistance, and help users quickly access information through an intelligent chatbot.
