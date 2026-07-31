@@ -58,3 +58,10 @@ student-erp
 ├── frontend
 ├── database
 └── README.md
+## ⚙ Installation
+
+1. Clone the repository.
+2. Configure MySQL.
+3. Update application.properties.
+4. Run Spring Boot.
+5. Start React application.
