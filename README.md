@@ -40,3 +40,11 @@ The application integrates Google Gemini AI to answer academic queries, provide 
 ### Database
 
 - MySQL
+## 🔧 Tools
+
+- Git
+- GitHub
+- Maven
+- VS Code
+- IntelliJ IDEA
+- Postman
