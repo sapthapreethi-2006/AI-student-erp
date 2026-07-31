@@ -51,3 +51,10 @@ The application integrates Google Gemini AI to answer academic queries, provide 
 ## 🏗 Architecture
 
 The project follows a three-tier architecture consisting of the presentation layer, business logic layer, and database layer. Communication between frontend and backend is handled through REST APIs.
+## 📂 Project Structure
+student-erp
+│
+├── backend
+├── frontend
+├── database
+└── README.md
