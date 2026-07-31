@@ -48,3 +48,6 @@ The application integrates Google Gemini AI to answer academic queries, provide 
 - VS Code
 - IntelliJ IDEA
 - Postman
+## 🏗 Architecture
+
+The project follows a three-tier architecture consisting of the presentation layer, business logic layer, and database layer. Communication between frontend and backend is handled through REST APIs.
