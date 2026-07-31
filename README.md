@@ -88,3 +88,9 @@ The application uses MySQL for storing academic information including student re
 - Student Management
 - Faculty Management
 - AI Assistant
+- ## 🔒 Security
+
+- JWT Authentication
+- Role Based Authorization
+- Secure REST APIs
+- Input Validation
