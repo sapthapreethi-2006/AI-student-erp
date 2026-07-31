@@ -104,3 +104,6 @@ The application uses MySQL for storing academic information including student re
 - ## 🤝 Contributing
 
 Contributions are welcome. Please fork the repository, create a feature branch, commit your changes, and submit a pull request.
+## 📄 License
+
+This project is licensed under the MIT License.
