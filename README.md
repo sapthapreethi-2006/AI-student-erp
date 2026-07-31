@@ -68,3 +68,13 @@ student-erp
 ## 🔑 Authentication
 
 The system uses JWT authentication to secure APIs. Users are authenticated based on their assigned roles.
+## 📌 REST APIs
+
+The backend exposes REST APIs for:
+
+- Authentication
+- Students
+- Faculty
+- Courses
+- Attendance
+- AI Assistant
