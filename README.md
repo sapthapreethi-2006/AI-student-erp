@@ -65,3 +65,6 @@ student-erp
 3. Update application.properties.
 4. Run Spring Boot.
 5. Start React application.
+## 🔑 Authentication
+
+The system uses JWT authentication to secure APIs. Users are authenticated based on their assigned roles.
