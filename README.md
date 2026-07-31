@@ -81,3 +81,10 @@ The backend exposes REST APIs for:
 ## 🗄 Database
 
 The application uses MySQL for storing academic information including student records, faculty details, attendance, and course information.
+## 📸 Screenshots
+
+- Login Page
+- Dashboard
+- Student Management
+- Faculty Management
+- AI Assistant
